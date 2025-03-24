@@ -1,5 +1,5 @@
 import React from "react";
-import profile1 from "../images/profile1.jpg";
+import profile from "../images/profile.jpg";
 
 function Background({ title, description }) {
   return (
@@ -8,7 +8,7 @@ function Background({ title, description }) {
         <div className="md:w-1/3 flex justify-center items-center mt-10 md:mt-20">
           <img
             className="w-60 md:w-80 rounded-xl shadow-lg"
-            src={profile1}
+            src={profile}
             alt="Profile face"
           />
         </div>

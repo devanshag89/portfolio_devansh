@@ -5,7 +5,7 @@ import background from "../images/background.webp";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect, useState } from "react";
-import profile1 from "../images/profile1.jpg";
+import profile from "../images/profile.jpg";
 import SuccessModal from "./SuccessModal";
 
 function About({ data,student }) {
@@ -30,7 +30,7 @@ function About({ data,student }) {
                         <div className="md:w-1/3 flex justify-center items-center mt-10 md:mt-20">
                             <img
                                 className="w-60 md:w-80 rounded-xl shadow-lg"
-                                src={profile1}
+                                src={profile}
                                 alt="Profile face"
                             />
                         </div>
