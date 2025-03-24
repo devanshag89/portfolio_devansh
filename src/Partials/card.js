@@ -25,13 +25,6 @@ function Card({ name, title, social: { github, dribbble, LinkedIn, email } }) {
           <FaGithub />
         </a>
         <a
-          className="text-3xl m-1 p-1 sm:m-2 sm:p-2 text-pink-600 hover:bg-pink-600 rounded-full hover:text-white transition-colors duration-300"
-          href={dribbble}
-          aria-label="Dribbble"
-        >
-          <FaDribbble />
-        </a>
-        <a
           className="text-3xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300"
           href={LinkedIn}
           aria-label="LinkedIn"

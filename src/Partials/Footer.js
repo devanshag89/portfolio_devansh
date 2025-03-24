@@ -68,10 +68,6 @@ function Footer({onSubmit, name, social: { LinkedIn, github, dribbble, email, ph
                 <FaGithub />
                 <span className="sr-only">Github</span>
               </a>
-              <a className="text-3xl m-1 p-1 sm:m-2 sm:p-2 text-pink-600 hover:bg-pink-600 rounded-full hover:text-white transition-colors duration-300" href={dribbble}>
-                <FaDribbble />
-                <span className="sr-only">Dribble</span>
-              </a>
               <a className="text-3xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href={LinkedIn}>
                 <FaLinkedin />
                 <span className="sr-only">LinkedIn</span>

@@ -30,7 +30,6 @@ const data = {
   title: "Programmer + Developer",
   social: {
     github: "https://github.com/devanshag89",
-    dribbble: "https://github.com/BraydenTW",
     LinkedIn: "https://www.linkedin.com/in/devansh-agrawal-5484a7230?utm",
     email: "devanshagrawal270167@gmail.com",
     phone: "9984758472",
