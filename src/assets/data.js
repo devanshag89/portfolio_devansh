@@ -32,7 +32,7 @@ const data = {
     github: "https://github.com/devanshag89",
     dribbble: "https://github.com/BraydenTW",
     LinkedIn: "https://www.linkedin.com/in/devansh-agrawal-5484a7230?utm",
-    email: "devanshagrawal511@gmail.com",
+    email: "devanshagrawal270167@gmail.com",
     phone: "9984758472",
     add: "336, Indeever Nagar, Barwasagar, Jhansi, U.P. (284201)"
   },
