@@ -1,6 +1,6 @@
 import React from "react";
 import icon3 from "../images/icon3.png";
-import { FaGithub, FaDribbble, FaLinkedin, FaRegEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaRegEnvelope } from "react-icons/fa";
 
 function Card({ name, title, social: { github, dribbble, LinkedIn, email } }) {
   return (

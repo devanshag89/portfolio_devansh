@@ -1,7 +1,7 @@
 import React from 'react';
-import { FaGithub, FaDribbble, FaLinkedin, FaRegEnvelope } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaRegEnvelope } from 'react-icons/fa';
 
-function Footer({onSubmit, name, social: { LinkedIn, github, dribbble, email, phone, add } }) {
+function Footer({onSubmit, name, social: { LinkedIn, github, email, phone, add } }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
