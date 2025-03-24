@@ -3,7 +3,7 @@ const student = {
     educationDetails: {
         grade10: {
             school: 'Nagar Palika Public High School',
-            board: 'State Board',
+            board: 'UP Board',
             year: '2019',
             percentage: '86.16%'
         },
@@ -11,13 +11,13 @@ const student = {
             school: 'Modern Public School,Jhansi',
             board: 'CBSE Board',
             year: '2021',
-            percentage: '79%'
+            percentage: '74.8%'
         },
         graduation: {
             course: 'B.Tech CSE',
             university: 'GLA University, Mathura',
             year: '2026',
-            gpa: '8.7 (till 4th semester)'
+            gpa: '8.68 (till 5th semester)'
         }
     }
 };
